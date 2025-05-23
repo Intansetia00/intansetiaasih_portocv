@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Profile SMK Muhamka",
+    "desc": "Salah satu project saat pengabdian kepada masyarakat yaitu membuat profile sekolah berbasis website",
+    "image": "smkmuhamka",
+    "category": "Website",
+    "links": {
+      "view": "https://smkmuhamkateg.sch.id/"
+    }
+  },
+  {
+    "name": "Farmify",
+    "desc": "Aplikasi pertanian yang dirancang untuk para petani agar dapat menjadwalkan waktu tanam dan menentukan hasil panennya",
+    "image": "farmify1",
+    "category": "Android",
+    "links": {
+      "view": "https://www.figma.com/design/t1UV6oVKEcAt6vnnQXe3r3/Farmify?node-id=0-1&t=5IyCPiOivg4bWH1g-1"
+    }
+  },
+  {
+    "name": "Wadulan",
+    "desc": "Aplikasi deteksi dan Estimasi Perbaikan Jalan Berlubang",
+    "image": "wadulan",
+    "category": "Android",
+    "links": {
+      "view": "https://www.figma.com/design/4jUDmdxintFYNDyQGodN0m/wadulan?node-id=0-1&t=HTvFmb9O8yvsB1a8-1"
+    }
+  },
+  {
+    "name": "HindariApp",
+    "desc": "Asisten Mengemudi Untuk Keamanan Berkendara Berbasis Website yang dimana berfungsi apabila pengendara dari jarak 10 meter terdapat nontifikasi suara realtime untuk lebih berhati-hati karena di depan terdapat jalan berlubang",
+    "image": "hindariapp",
+    "category": "Website",
+    "links": {
+      "view": "on-proses"
+    }
+  }
+]
